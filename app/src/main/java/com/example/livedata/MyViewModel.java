@@ -21,6 +21,4 @@ public class MyViewModel extends ViewModel {
     public void minusOne(){
         number.setValue(String.valueOf(--changeNumber));
     }
-
-
 }
